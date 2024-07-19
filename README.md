@@ -87,4 +87,3 @@ If you would like to contribute to this project, please fork the repository and 
 ## Contact
 
 - Twitter: [@pratzz326](https://x.com/pratzz326)
-```
